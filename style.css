@@ -295,6 +295,31 @@ h4{
         flex-basis: 100%;
     }
 }
+/*----------media query for menu-----------*/
+@media only screen and (max-width:428px){
+    .map{
+        margin-right: 40px;
+    }
+}
+/*----------media query for menu-----------*/
+@media only screen and (max-width:414px){
+    .row ul li .map{
+        margin-right: 35px;
+    }
+}
+
+/*----------media query for menu-----------*/
+@media only screen and (max-width:390px){
+    .map{
+        margin-right: 15px;
+    }
+}
+/*----------media query for menu-----------*/
+@media only screen and (max-width:360px){
+    .row ul li .map{
+        margin-right: -13px;
+    }
+}
 #home{
    background:  radial-gradient(#fff,#ffd6d6);
 }
