@@ -246,7 +246,7 @@ h4{
 
 
 /*----------media query for menu-----------*/
-@media only screen and (max-width:1500px){
+@media only screen and (max-width:1920px){
     .menu-icon{
         width: 0;
     }
